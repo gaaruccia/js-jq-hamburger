@@ -1,4 +1,3 @@
-$('.hamburger-menu').hide()
 $(".fa-bars").click(
   function(){
     $('.hamburger-menu').show();
